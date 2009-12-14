@@ -1,0 +1,4 @@
+name = Views profile name
+description = [viewsprofilename] Replaces user name with strip tagged version of theme username, currently only in title of argument. 
+dependencies[] = views
+core = 6.x
